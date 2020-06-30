@@ -1,0 +1,12 @@
+{
+  "name": "rnMaps",
+  "displayName": "rnMaps",
+  "expo": {
+    "name": "rnMaps",
+    "slug": "rnMaps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
