@@ -6,5 +6,5 @@ import App from "./App";
 // It also ensures that whether you load the app in the Expo client or in a native build,
 // the environment is set up appropriately
 // I am Prateek
-// This is react native project
+
 registerRootComponent(App);
